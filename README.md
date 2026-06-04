@@ -14,5 +14,7 @@ Tech Stack:
 Tujuan Proyek:
 Melatih kemampuan pembuatan dashboard dan visualisasi data berbasis web menggunakan teknologi frontend dasar.
 
+Link Dashboard: https://danurcr7.github.io/Dashboard/
+
 Dashboard Preview
 <img width="1899" height="907" alt="image" src="https://github.com/user-attachments/assets/8b4e9c13-ba01-429b-856b-3c99d0cc3628" />
